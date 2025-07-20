@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.pinimg.com/736x/8e/3c/4e/8e3c4e858347d55dcd8a6676f1f94574.jpg" alt="Description" width="600"/></p>
-
 <h1 align="center">Hi there 👋, I'm Nayana</h1>
 <p align="center">
   <em> Networking nerd 🌐 | Cloud enthusiast ☁ </em>
@@ -25,13 +23,5 @@
 
 - 📫 Email: `gnayana555@gmail.com`
 - 💼 [LinkedIn](https://www.linkedin.com/in/nayana-g-18b62b159)
-
----
-
-### ⚡ Fun Facts
-
-- 🎧 I love listening to **music** and **true scary story podcasts**
-- ✏️ Hobbies: **Digital art**, **sketching**, and **reading novels**
-- 🚀 I dream of building a tech product that helps people every day
 
 
